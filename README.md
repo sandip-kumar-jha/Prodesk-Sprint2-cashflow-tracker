@@ -22,4 +22,5 @@
 - LocalStorage API
 
 ## Live Demo
-classy-bonbon-82dfb7.netlify.app
+
+https://classy-bonbon-82dfb7.netlify.app/
